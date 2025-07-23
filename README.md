@@ -194,7 +194,3 @@ For questions or support:
 ## 📄 License
 
 MIT License - see LICENSE file for details.
-
----
-
-Built with ❤️ by the Data Hero team 
