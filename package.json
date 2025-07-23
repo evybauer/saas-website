@@ -1,0 +1,46 @@
+{
+  "name": "data-hero-landing",
+  "version": "1.0.0",
+  "description": "High-converting SaaS landing page for Data Hero",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export": "next export",
+    "test:analytics": "node scripts/test-analytics.js"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "framer-motion": "^10.16.0",
+    "lucide-react": "^0.292.0",
+    "react-intersection-observer": "^9.5.0",
+    "react-countup": "^6.4.0",
+    "react-hook-form": "^7.47.0",
+    "react-hot-toast": "^2.4.1",
+    "tailwindcss": "^3.3.0",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "@headlessui/react": "^1.7.17",
+    "react-player": "^2.13.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "eslint": "^8.51.0",
+    "eslint-config-next": "^14.0.0",
+    "typescript": "^5.2.0"
+  },
+  "keywords": [
+    "saas",
+    "landing-page",
+    "conversion-optimization",
+    "data-analytics"
+  ],
+  "author": "Data Hero Team",
+  "license": "MIT"
+} 
